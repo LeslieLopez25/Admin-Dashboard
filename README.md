@@ -1,13 +1,13 @@
 <h1>Admin Dashboard</h1>
 
-<h2>A camera website using SASS.</h2>
+<h2>A dashboard using HTML, CSS, and JavaScript.</h2>
 
-<p>This project is created using HTML and SASS. I created this following the tutorial of Dev Ed. This was the first that I used SASS. I've changed the images, color, and values of measure. This project was the first time that I used SASS and it's definitely a CSS framework that I would like to get better at to learn to use for future projects. </p>
+<p>This project is created using HTML, CSS, and JavaScript. I created this following the tutorial of CodingLab. I've changed the images, color scheme, and values of measure.</p>
 
 ### Link
 
-- Live Site: [Admin Dashboard]()
+- Live Site: [Admin Dashboard](https://leslielopez25.github.io/Admin-Dashboard/)
 
 ### Screenshot
 
-<img src="" width="400">
+<img src="/screenshot/dashboard.png" width="400">
